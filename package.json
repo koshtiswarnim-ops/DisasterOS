@@ -1,0 +1,20 @@
+{
+  "name": "careernexus-portal",
+  "version": "1.0.0",
+  "description": "Job portal and interview preparation platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "deploy": "npx vercel deploy --prod"
+  },
+  "keywords": [
+    "job-portal",
+    "dsa",
+    "placement-prep",
+    "aptitude",
+    "interview-preparation"
+  ],
+  "author": "koshtiswarnim-ops",
+  "license": "MIT"
+}
